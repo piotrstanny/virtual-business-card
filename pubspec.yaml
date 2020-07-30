@@ -43,6 +43,13 @@ flutter:
   assets:
     - assets/avatar.jpg
 
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: packages/awesome_package/fonts/Raleway-Regular.ttf
+        - asset: packages/awesome_package/fonts/Raleway-Italic.ttf
+          style: italic
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
 
